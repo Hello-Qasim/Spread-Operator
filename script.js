@@ -33,7 +33,7 @@ console.log(joinArrays); //output => [1, 2, 3, 4, 5, 6]
 
 // iterables are arrays , strings ,map and sets it doesn't includes objects :
 
-// <===========Spread-Operator in String=============>//
+// <===========Spread-Operator in String===========>//
 
 const firstName = 'Qas';
 
